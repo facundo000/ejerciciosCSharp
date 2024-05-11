@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ej_2_4_Facundo_Nicolas_Guzman_Olariaga/1.0.0": {
+        "runtime": {
+          "Ej_2_4_Facundo_Nicolas_Guzman_Olariaga.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ej_2_4_Facundo_Nicolas_Guzman_Olariaga/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

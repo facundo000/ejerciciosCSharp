@@ -1,0 +1,8 @@
+D:\UTN\ProgramacionI\2024\PuntoApp\bin\Debug\PuntoApp.exe.config
+D:\UTN\ProgramacionI\2024\PuntoApp\bin\Debug\PuntoApp.exe
+D:\UTN\ProgramacionI\2024\PuntoApp\bin\Debug\PuntoApp.pdb
+D:\UTN\ProgramacionI\2024\PuntoApp\obj\Debug\PuntoApp.csproj.AssemblyReference.cache
+D:\UTN\ProgramacionI\2024\PuntoApp\obj\Debug\PuntoApp.csproj.SuggestedBindingRedirects.cache
+D:\UTN\ProgramacionI\2024\PuntoApp\obj\Debug\PuntoApp.csproj.CoreCompileInputs.cache
+D:\UTN\ProgramacionI\2024\PuntoApp\obj\Debug\PuntoApp.exe
+D:\UTN\ProgramacionI\2024\PuntoApp\obj\Debug\PuntoApp.pdb

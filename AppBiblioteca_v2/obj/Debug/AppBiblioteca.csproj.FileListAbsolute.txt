@@ -1,0 +1,8 @@
+D:\UTN\ProgramacionI\2024\AppBiblioteca\bin\Debug\AppBiblioteca.exe.config
+D:\UTN\ProgramacionI\2024\AppBiblioteca\bin\Debug\AppBiblioteca.exe
+D:\UTN\ProgramacionI\2024\AppBiblioteca\bin\Debug\AppBiblioteca.pdb
+D:\UTN\ProgramacionI\2024\AppBiblioteca\obj\Debug\AppBiblioteca.csproj.AssemblyReference.cache
+D:\UTN\ProgramacionI\2024\AppBiblioteca\obj\Debug\AppBiblioteca.csproj.SuggestedBindingRedirects.cache
+D:\UTN\ProgramacionI\2024\AppBiblioteca\obj\Debug\AppBiblioteca.csproj.CoreCompileInputs.cache
+D:\UTN\ProgramacionI\2024\AppBiblioteca\obj\Debug\AppBiblioteca.exe
+D:\UTN\ProgramacionI\2024\AppBiblioteca\obj\Debug\AppBiblioteca.pdb

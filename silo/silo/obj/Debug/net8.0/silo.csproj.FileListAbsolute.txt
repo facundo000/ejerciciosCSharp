@@ -1,0 +1,14 @@
+C:\Users\Windows\Desktop\TUP\programacion - logica\silo\silo\bin\Debug\net8.0\silo.exe
+C:\Users\Windows\Desktop\TUP\programacion - logica\silo\silo\bin\Debug\net8.0\silo.deps.json
+C:\Users\Windows\Desktop\TUP\programacion - logica\silo\silo\bin\Debug\net8.0\silo.runtimeconfig.json
+C:\Users\Windows\Desktop\TUP\programacion - logica\silo\silo\bin\Debug\net8.0\silo.dll
+C:\Users\Windows\Desktop\TUP\programacion - logica\silo\silo\bin\Debug\net8.0\silo.pdb
+C:\Users\Windows\Desktop\TUP\programacion - logica\silo\silo\obj\Debug\net8.0\silo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\TUP\programacion - logica\silo\silo\obj\Debug\net8.0\silo.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\silo\silo\obj\Debug\net8.0\silo.AssemblyInfo.cs
+C:\Users\Windows\Desktop\TUP\programacion - logica\silo\silo\obj\Debug\net8.0\silo.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\silo\silo\obj\Debug\net8.0\silo.dll
+C:\Users\Windows\Desktop\TUP\programacion - logica\silo\silo\obj\Debug\net8.0\refint\silo.dll
+C:\Users\Windows\Desktop\TUP\programacion - logica\silo\silo\obj\Debug\net8.0\silo.pdb
+C:\Users\Windows\Desktop\TUP\programacion - logica\silo\silo\obj\Debug\net8.0\silo.genruntimeconfig.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\silo\silo\obj\Debug\net8.0\ref\silo.dll

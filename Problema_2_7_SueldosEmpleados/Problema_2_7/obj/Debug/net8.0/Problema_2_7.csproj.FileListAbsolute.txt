@@ -1,0 +1,14 @@
+C:\Users\Windows\Desktop\TUP\programacion - logica\Problema_2_7\Problema_2_7\bin\Debug\net8.0\Problema_2_7.exe
+C:\Users\Windows\Desktop\TUP\programacion - logica\Problema_2_7\Problema_2_7\bin\Debug\net8.0\Problema_2_7.deps.json
+C:\Users\Windows\Desktop\TUP\programacion - logica\Problema_2_7\Problema_2_7\bin\Debug\net8.0\Problema_2_7.runtimeconfig.json
+C:\Users\Windows\Desktop\TUP\programacion - logica\Problema_2_7\Problema_2_7\bin\Debug\net8.0\Problema_2_7.dll
+C:\Users\Windows\Desktop\TUP\programacion - logica\Problema_2_7\Problema_2_7\bin\Debug\net8.0\Problema_2_7.pdb
+C:\Users\Windows\Desktop\TUP\programacion - logica\Problema_2_7\Problema_2_7\obj\Debug\net8.0\Problema_2_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\TUP\programacion - logica\Problema_2_7\Problema_2_7\obj\Debug\net8.0\Problema_2_7.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\Problema_2_7\Problema_2_7\obj\Debug\net8.0\Problema_2_7.AssemblyInfo.cs
+C:\Users\Windows\Desktop\TUP\programacion - logica\Problema_2_7\Problema_2_7\obj\Debug\net8.0\Problema_2_7.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\Problema_2_7\Problema_2_7\obj\Debug\net8.0\Problema_2_7.dll
+C:\Users\Windows\Desktop\TUP\programacion - logica\Problema_2_7\Problema_2_7\obj\Debug\net8.0\refint\Problema_2_7.dll
+C:\Users\Windows\Desktop\TUP\programacion - logica\Problema_2_7\Problema_2_7\obj\Debug\net8.0\Problema_2_7.pdb
+C:\Users\Windows\Desktop\TUP\programacion - logica\Problema_2_7\Problema_2_7\obj\Debug\net8.0\Problema_2_7.genruntimeconfig.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\Problema_2_7\Problema_2_7\obj\Debug\net8.0\ref\Problema_2_7.dll

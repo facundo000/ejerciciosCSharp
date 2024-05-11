@@ -1,0 +1,14 @@
+C:\Users\Windows\Desktop\TUP\programacion - logica\problemaModelo\problemaModelo\bin\Debug\net8.0\problemaModelo.exe
+C:\Users\Windows\Desktop\TUP\programacion - logica\problemaModelo\problemaModelo\bin\Debug\net8.0\problemaModelo.deps.json
+C:\Users\Windows\Desktop\TUP\programacion - logica\problemaModelo\problemaModelo\bin\Debug\net8.0\problemaModelo.runtimeconfig.json
+C:\Users\Windows\Desktop\TUP\programacion - logica\problemaModelo\problemaModelo\bin\Debug\net8.0\problemaModelo.dll
+C:\Users\Windows\Desktop\TUP\programacion - logica\problemaModelo\problemaModelo\bin\Debug\net8.0\problemaModelo.pdb
+C:\Users\Windows\Desktop\TUP\programacion - logica\problemaModelo\problemaModelo\obj\Debug\net8.0\problemaModelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\TUP\programacion - logica\problemaModelo\problemaModelo\obj\Debug\net8.0\problemaModelo.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\problemaModelo\problemaModelo\obj\Debug\net8.0\problemaModelo.AssemblyInfo.cs
+C:\Users\Windows\Desktop\TUP\programacion - logica\problemaModelo\problemaModelo\obj\Debug\net8.0\problemaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\problemaModelo\problemaModelo\obj\Debug\net8.0\problemaModelo.dll
+C:\Users\Windows\Desktop\TUP\programacion - logica\problemaModelo\problemaModelo\obj\Debug\net8.0\refint\problemaModelo.dll
+C:\Users\Windows\Desktop\TUP\programacion - logica\problemaModelo\problemaModelo\obj\Debug\net8.0\problemaModelo.pdb
+C:\Users\Windows\Desktop\TUP\programacion - logica\problemaModelo\problemaModelo\obj\Debug\net8.0\problemaModelo.genruntimeconfig.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\problemaModelo\problemaModelo\obj\Debug\net8.0\ref\problemaModelo.dll

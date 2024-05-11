@@ -1,0 +1,8 @@
+D:\UTN\ProgramacionI\2024\RectanguloApp\bin\Debug\RectanguloApp.exe.config
+D:\UTN\ProgramacionI\2024\RectanguloApp\bin\Debug\RectanguloApp.exe
+D:\UTN\ProgramacionI\2024\RectanguloApp\bin\Debug\RectanguloApp.pdb
+D:\UTN\ProgramacionI\2024\RectanguloApp\obj\Debug\RectanguloApp.csproj.AssemblyReference.cache
+D:\UTN\ProgramacionI\2024\RectanguloApp\obj\Debug\RectanguloApp.csproj.SuggestedBindingRedirects.cache
+D:\UTN\ProgramacionI\2024\RectanguloApp\obj\Debug\RectanguloApp.csproj.CoreCompileInputs.cache
+D:\UTN\ProgramacionI\2024\RectanguloApp\obj\Debug\RectanguloApp.exe
+D:\UTN\ProgramacionI\2024\RectanguloApp\obj\Debug\RectanguloApp.pdb

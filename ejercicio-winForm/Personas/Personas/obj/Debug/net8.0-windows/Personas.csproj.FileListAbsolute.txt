@@ -1,0 +1,17 @@
+C:\Users\Windows\Desktop\TUP\programacion - logica\Personas\Personas\bin\Debug\net8.0-windows\Personas.exe
+C:\Users\Windows\Desktop\TUP\programacion - logica\Personas\Personas\bin\Debug\net8.0-windows\Personas.deps.json
+C:\Users\Windows\Desktop\TUP\programacion - logica\Personas\Personas\bin\Debug\net8.0-windows\Personas.runtimeconfig.json
+C:\Users\Windows\Desktop\TUP\programacion - logica\Personas\Personas\bin\Debug\net8.0-windows\Personas.dll
+C:\Users\Windows\Desktop\TUP\programacion - logica\Personas\Personas\bin\Debug\net8.0-windows\Personas.pdb
+C:\Users\Windows\Desktop\TUP\programacion - logica\Personas\Personas\obj\Debug\net8.0-windows\Personas.Form1.resources
+C:\Users\Windows\Desktop\TUP\programacion - logica\Personas\Personas\obj\Debug\net8.0-windows\Personas.Properties.Resources.resources
+C:\Users\Windows\Desktop\TUP\programacion - logica\Personas\Personas\obj\Debug\net8.0-windows\Personas.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\Personas\Personas\obj\Debug\net8.0-windows\Personas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\TUP\programacion - logica\Personas\Personas\obj\Debug\net8.0-windows\Personas.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\Personas\Personas\obj\Debug\net8.0-windows\Personas.AssemblyInfo.cs
+C:\Users\Windows\Desktop\TUP\programacion - logica\Personas\Personas\obj\Debug\net8.0-windows\Personas.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\Personas\Personas\obj\Debug\net8.0-windows\Personas.dll
+C:\Users\Windows\Desktop\TUP\programacion - logica\Personas\Personas\obj\Debug\net8.0-windows\refint\Personas.dll
+C:\Users\Windows\Desktop\TUP\programacion - logica\Personas\Personas\obj\Debug\net8.0-windows\Personas.pdb
+C:\Users\Windows\Desktop\TUP\programacion - logica\Personas\Personas\obj\Debug\net8.0-windows\Personas.genruntimeconfig.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\Personas\Personas\obj\Debug\net8.0-windows\ref\Personas.dll

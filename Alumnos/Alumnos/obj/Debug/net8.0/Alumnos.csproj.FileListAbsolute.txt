@@ -1,0 +1,14 @@
+C:\Users\Windows\Desktop\TUP\programacion - logica\Alumnos\Alumnos\obj\Debug\net8.0\Alumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\TUP\programacion - logica\Alumnos\Alumnos\obj\Debug\net8.0\Alumnos.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\Alumnos\Alumnos\obj\Debug\net8.0\Alumnos.AssemblyInfo.cs
+C:\Users\Windows\Desktop\TUP\programacion - logica\Alumnos\Alumnos\obj\Debug\net8.0\Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\Alumnos\Alumnos\bin\Debug\net8.0\Alumnos.exe
+C:\Users\Windows\Desktop\TUP\programacion - logica\Alumnos\Alumnos\bin\Debug\net8.0\Alumnos.deps.json
+C:\Users\Windows\Desktop\TUP\programacion - logica\Alumnos\Alumnos\bin\Debug\net8.0\Alumnos.runtimeconfig.json
+C:\Users\Windows\Desktop\TUP\programacion - logica\Alumnos\Alumnos\bin\Debug\net8.0\Alumnos.dll
+C:\Users\Windows\Desktop\TUP\programacion - logica\Alumnos\Alumnos\bin\Debug\net8.0\Alumnos.pdb
+C:\Users\Windows\Desktop\TUP\programacion - logica\Alumnos\Alumnos\obj\Debug\net8.0\Alumnos.dll
+C:\Users\Windows\Desktop\TUP\programacion - logica\Alumnos\Alumnos\obj\Debug\net8.0\refint\Alumnos.dll
+C:\Users\Windows\Desktop\TUP\programacion - logica\Alumnos\Alumnos\obj\Debug\net8.0\Alumnos.pdb
+C:\Users\Windows\Desktop\TUP\programacion - logica\Alumnos\Alumnos\obj\Debug\net8.0\Alumnos.genruntimeconfig.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\Alumnos\Alumnos\obj\Debug\net8.0\ref\Alumnos.dll

@@ -1,0 +1,14 @@
+C:\Users\Windows\Desktop\TUP\programacion - logica\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\bin\Debug\net8.0\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga.exe
+C:\Users\Windows\Desktop\TUP\programacion - logica\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\bin\Debug\net8.0\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga.deps.json
+C:\Users\Windows\Desktop\TUP\programacion - logica\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\bin\Debug\net8.0\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga.runtimeconfig.json
+C:\Users\Windows\Desktop\TUP\programacion - logica\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\bin\Debug\net8.0\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga.dll
+C:\Users\Windows\Desktop\TUP\programacion - logica\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\bin\Debug\net8.0\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga.pdb
+C:\Users\Windows\Desktop\TUP\programacion - logica\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\obj\Debug\net8.0\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\TUP\programacion - logica\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\obj\Debug\net8.0\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\obj\Debug\net8.0\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga.AssemblyInfo.cs
+C:\Users\Windows\Desktop\TUP\programacion - logica\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\obj\Debug\net8.0\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\obj\Debug\net8.0\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga.dll
+C:\Users\Windows\Desktop\TUP\programacion - logica\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\obj\Debug\net8.0\refint\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga.dll
+C:\Users\Windows\Desktop\TUP\programacion - logica\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\obj\Debug\net8.0\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga.pdb
+C:\Users\Windows\Desktop\TUP\programacion - logica\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\obj\Debug\net8.0\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga.genruntimeconfig.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga\obj\Debug\net8.0\ref\Ej_2_4_Facundo_Nicolas_Guzman_Olariaga.dll
