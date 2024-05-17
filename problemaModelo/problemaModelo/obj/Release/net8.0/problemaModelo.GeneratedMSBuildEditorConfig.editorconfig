@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = problemaModelo
-build_property.ProjectDir = C:\Users\Windows\Desktop\TUP\programacion - logica\problemaModelo\problemaModelo\
+build_property.ProjectDir = C:\Users\Windows\Desktop\TUP\programacion - logica\ejerciciosCSharp\problemaModelo\problemaModelo\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

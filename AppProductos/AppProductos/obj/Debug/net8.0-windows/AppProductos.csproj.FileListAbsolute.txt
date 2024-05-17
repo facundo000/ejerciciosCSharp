@@ -14,3 +14,13 @@ C:\Users\Windows\Desktop\TUP\programacion - logica\AppProductos\AppProductos\obj
 C:\Users\Windows\Desktop\TUP\programacion - logica\AppProductos\AppProductos\obj\Debug\net8.0-windows\AppProductos.genruntimeconfig.cache
 C:\Users\Windows\Desktop\TUP\programacion - logica\AppProductos\AppProductos\obj\Debug\net8.0-windows\ref\AppProductos.dll
 C:\Users\Windows\Desktop\TUP\programacion - logica\AppProductos\AppProductos\obj\Debug\net8.0-windows\AppProductos.FrmProducto.resources
+C:\Users\Windows\Desktop\TUP\programacion - logica\ejerciciosCSharp\AppProductos\AppProductos\obj\Debug\net8.0-windows\AppProductos.FrmProducto.resources
+C:\Users\Windows\Desktop\TUP\programacion - logica\ejerciciosCSharp\AppProductos\AppProductos\obj\Debug\net8.0-windows\AppProductos.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\ejerciciosCSharp\AppProductos\AppProductos\obj\Debug\net8.0-windows\AppProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\TUP\programacion - logica\ejerciciosCSharp\AppProductos\AppProductos\obj\Debug\net8.0-windows\AppProductos.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\ejerciciosCSharp\AppProductos\AppProductos\obj\Debug\net8.0-windows\AppProductos.AssemblyInfo.cs
+C:\Users\Windows\Desktop\TUP\programacion - logica\ejerciciosCSharp\AppProductos\AppProductos\obj\Debug\net8.0-windows\AppProductos.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TUP\programacion - logica\ejerciciosCSharp\AppProductos\AppProductos\obj\Debug\net8.0-windows\AppProductos.sourcelink.json
+C:\Users\Windows\Desktop\TUP\programacion - logica\ejerciciosCSharp\AppProductos\AppProductos\obj\Debug\net8.0-windows\AppProductos.dll
+C:\Users\Windows\Desktop\TUP\programacion - logica\ejerciciosCSharp\AppProductos\AppProductos\obj\Debug\net8.0-windows\refint\AppProductos.dll
+C:\Users\Windows\Desktop\TUP\programacion - logica\ejerciciosCSharp\AppProductos\AppProductos\obj\Debug\net8.0-windows\AppProductos.pdb
